@@ -6,7 +6,8 @@
 
 
 
-![Screenshot_1](https://github.com/Rawatabhi7/Ronaldo_Tribute_Page_HTML-CSS/assets/142040983/dcabac90-4b64-4b7c-bb2f-378350ab5c56)
+![Screenshot_1](https://github.com/Rawatabhi7/NikeProductLandingPage/Nike-sneaker-air-max/
+
 
 📷 https://youtu.be/KmQCtuxtbI0?si=WUdXDNZzrEPjNlpE
 
