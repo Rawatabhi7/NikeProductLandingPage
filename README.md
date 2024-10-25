@@ -6,7 +6,7 @@
 
 
 
-![Screenshot_1](http://url/to/preview.png)
+![preview](https://github.com/user-attachments/assets/c5fcd412-7788-4da3-9ddb-7045ebc57974)
 
 
 📷 https://youtu.be/KmQCtuxtbI0?si=WUdXDNZzrEPjNlpE
