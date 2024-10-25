@@ -6,7 +6,7 @@
 
 
 
-![Screenshot_1](https://github.com/Nike-sneaker-air-max/preview.png)
+![Screenshot_1](http://url/to/preview.png)
 
 
 📷 https://youtu.be/KmQCtuxtbI0?si=WUdXDNZzrEPjNlpE
